@@ -1,6 +1,8 @@
 # Sandbox
 Repository for experimenting and testing 3.
 
+Here's a [link to the website](https://cbsdlab.github.io/Sandbox/)
+
 # Examples of links
 
 Here's a link [link to Exercise 1](https://github.com/CBSDLab/Sandbox-EX1/tree/467a3bcc8b575ec4611eeda4524b95a13814bbad)
