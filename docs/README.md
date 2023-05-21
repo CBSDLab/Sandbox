@@ -7,8 +7,7 @@ Added some more text.
 
 # Examples of links
 
-Here's a link [link to Exercise 1](https://github.com/CBSDLab/Sandbox-EX1/tree/467a3bcc8b575ec4611eeda4524b95a13814bbad)
-
+Here's the link to the [Exercise 1 pages](https://cbsdlab.github.io/Sandbox-EX1/) 
 
 # Example of embedding an isee Exchange system dynamics model interface
 
